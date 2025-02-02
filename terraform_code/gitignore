@@ -1,0 +1,6 @@
+*.terraform*
+*.tfstate*
+.terraform/
+*.tfstate*
+**/.terraform/
+*clo835_assign1-dev*
